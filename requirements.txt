@@ -1,7 +1,4 @@
 fastapi[standard]
 pydantic
-python-dotenv
-python-multipart
-requests
-itsdangerous
+websockets
 pyserial
